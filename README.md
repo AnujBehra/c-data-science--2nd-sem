@@ -1,2 +1,2 @@
-# c-data-science--2nd-sem
-this is my work on c 
+#c,data-science,2nd-sem
+this is my work in c
